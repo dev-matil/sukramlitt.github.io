@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rougon</title>
+    <link>/</link>
+    <description>Recent content on rougon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 21 Sep 2018 14:15:59 -0600</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Binärgewitter Talk #211: XML kann weg</title>
+      <link>/episodes/2018-09-21-binaergewitter-talk-number-211-xml-kann-weg/index.json</link>
+      <pubDate>Fri, 21 Sep 2018 14:15:59 -0600</pubDate>
+      
+      <guid>/episodes/2018-09-21-binaergewitter-talk-number-211-xml-kann-weg/index.json</guid>
+      <description>Eine schnelle Sendung liefern Markus, l33tname und Ingo am letzten Sommertag ab&amp;hellip;
+Toter der Woche  Stream  openvswitch hetzner vswitch   News  Linus is sorry  new CoC  gitlab nimmt Risikokapital ein chronologische Timeline Neuer Intel ME Bug RCE in apk  whydoesaptnotusehttps  Gesundheits App Vivy  Public Money - Public Code!  BufDi für FSFE Schweizer Steuerdaten frisch und frei in der Cloud x86 finds its way into your iPhone scoutfs  Themen Urherberrechtsreform</description>
+    </item>
+    
+    <item>
+      <title>Binärgewitter Talk #210: agile ist die Blockchain von damals</title>
+      <link>/episodes/2018-09-12-binaergewitter-talk-number-210-agile-ist-die-blockchain-von-damals/index.json</link>
+      <pubDate>Fri, 03 Nov 2017 14:15:59 -0600</pubDate>
+      
+      <guid>/episodes/2018-09-12-binaergewitter-talk-number-210-agile-ist-die-blockchain-von-damals/index.json</guid>
+      <description>In der deprimierenden Zeit in der die Uploadfilter beschossene Sache sind treffen sich Felix² und Markus und versuchen euch zumindest zeitweise zu erheitern.
+Blast  Foreshadow  foreshadowattack.eu   in eigener sache  issues aufgeräumt spenden  Flattr Podcast Subscriptions flattr link  is_live? It&amp;rsquo;s AI! (commitstrip)  Toter der Woche  Mr TempleOS Terry Davis  News  nano 3.0  editor-perf issue für editor-perf nano 3.0  ZoL 0.</description>
+    </item>
+    
+    <item>
+      <title>Binärgewitter Westcoast #4: Hitzetod im Kabuff</title>
+      <link>/episodes/2018-08-02-binaergewitter-westcoast-number-4-hitzetod-im-kabuff/index.json</link>
+      <pubDate>Thu, 02 Nov 2017 14:15:59 -0600</pubDate>
+      
+      <guid>/episodes/2018-08-02-binaergewitter-westcoast-number-4-hitzetod-im-kabuff/index.json</guid>
+      <description>Traditionell hatte sowohl Marc’s Backup Recorder versagt also auch die Primäre Aufnahme Probleme. Tonqualität ist also eher auf Dosentelefon Level. Wir versuchen uns zu verbessern.
+Thema der Woche: Home Network Shenanigans Marc:
+ NAS: Synology DS918+ (Vorher: Xeon D NAS)  WAFL File System Lightroom Arq backup  WLAN: EERO Pro (Vorher: Netgear ORBI, Ubitquiti)  pfleidi: Ubiquiti Networks Unifi 802.11ac Smallnetbuilder The wire cutter Command Strips OpenWRT SmokePing  Smart home: Home Assistant + Raspberry Pi + HUSBZB-1 (Vorher: Samsung Smartthings, Vera)  pfleidi: Philips Hue Birnen mit HomeKit + Siri Belkin Wemo Mini Smart Plug Dimmer Switches TP-Link Kasa Smart Plug   Mimimi der Woche  Apple TV Fernbedienung Philipps Hue Verhalten bei Stromausfall Sonoff Basic Firmware Mimimi</description>
+    </item>
+    
+    <item>
+      <title>Binärgewitter Talk #209: DSLedge</title>
+      <link>/episodes/2018-09-07-binaergewitter-talk-number-209-dsledge/index.json</link>
+      <pubDate>Tue, 03 Oct 2017 14:15:59 -0600</pubDate>
+      
+      <guid>/episodes/2018-09-07-binaergewitter-talk-number-209-dsledge/index.json</guid>
+      <description>Der Sommer ist vorbei und auch wir sind wieder da. Die Felixe und Ingo reden über Zeitumstellung, Enterprise Sprachen und was sonst so los war.
+Blast  öffi app The Spectre of hardware bugs #35c3 in Leipzig  eloop am 10.11.2018  [Zeitumstellung wird (vielleicht bald) abgeschafft!]( )  Full Sommerzeit oder full Normalzeit   Toter der Woche  Piratenpad  Untoter  Solaris 11.4  News  Schweiz stellt DVB-T ein Hacktoberfest The Enterprise Programming Language  oracle cloud  John McAfees &amp;ldquo;unhackbares&amp;rdquo; Bitcoin-Wallet Bitfi gehack u2f von google Faxploit Jenkins &amp;ldquo;shifting gears&amp;rdquo; OpenBSD on the Microsoft Surface Go Arduino CLI Redis lizenz archive.</description>
+    </item>
+    
+    <item>
+      <title>Binärgewitter Talk #208: PoE WLAN-Kabel</title>
+      <link>/episodes/2018-08-25-binaergewitter-talk-number-208-poe-wlan/index.json</link>
+      <pubDate>Sun, 03 Sep 2017 14:15:59 -0600</pubDate>
+      
+      <guid>/episodes/2018-08-25-binaergewitter-talk-number-208-poe-wlan/index.json</guid>
+      <description>Live von der froscon 2018. Markus und Felix haben sich den Schmittlauch geschnappt und reden über das freie Internet.
+FrOSCon  FrOSCon 13 - 2018 ipv6  Request for comment podcast  Projekte  Openoffice und LibreOffice sind da! CACert illumos, Fork von OpenSolaris OwnCloud ist da und wirbt für neuen Client
+  LPIC Quiz  Toter der Woche  HipChat wird eingestellt  google chat Akronymisierbar zu Chats  Twitter StreamingAPI #breakingMyTwitter  kommende Änderung: client-weite Beschränkungen Corebird Fork mit Polling Support   News  NetBSD 8 ReactOS 0.</description>
+    </item>
+    
+    <item>
+      <title>Binärgewitter Talk #207: Heise Offline</title>
+      <link>/episodes/2018-07-21-binaergewitter-talk-number-207-heise-offline/index.json</link>
+      <pubDate>Fri, 21 Jul 2017 14:15:59 -0600</pubDate>
+      
+      <guid>/episodes/2018-07-21-binaergewitter-talk-number-207-heise-offline/index.json</guid>
+      <description>Felix und Ingo waren zusammen im Studio und der Schweizer Felix war zugeschaltet. Zusammen geht es diemal über toten Baum und den Google Play Store bzw. Google Marktmacht.
+Toter der Woche  EasyLinux wird eingestellt Classic Skype Tata Nano Mosquittos in Australien  Untoter der Woche  Librebike WarnWetter  News  öffi app wird bei google ausgeworfen - google monopol problem  Öffi App ist OpenSource in F-Droid  liberapay in Schwierigkeiten EU verhängt Kartellrechts-Strafe gegen Google  Graphik: durch die EU verhängte Strafen der 5 Mrd $ commit  Instapaper wechselt den Besitzer Suse verkauft dependency security check Sonos Account Zwang  MusicCast von Yamaha MusicCast Netzwerk Lautsprecher bei Amazon  SIM Karte aus Storchentracker missbraucht  Themen  DESY IceCube SZ zum Hochenergie Neutrino  Lesefoo  On the predictability of the popularity of online recipes If You Say Something is &amp;ldquo;Likely,&amp;rdquo; How Likely Do People Think It is?</description>
+    </item>
+    
+  </channel>
+</rss>

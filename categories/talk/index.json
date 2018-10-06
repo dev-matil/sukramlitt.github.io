@@ -1,0 +1,328 @@
+
+    {
+        
+        
+            "taxonomy" : "category",
+            "term" : "talk",
+        
+        "count" : "5"
+        ,"items" : [
+        
+            
+
+
+
+{
+    "theme": {
+        "main": "#7FAF1B"
+    },
+    "link": "http://blog.binaergewitter.de/2018/09/21/binaergewitter-talk-number-211-xml-kann-weg",
+    "title": "Binärgewitter Talk #211: XML kann weg",
+    "poster": "/img/binaergewitter_logo1x1.jpg",
+    "duration": "01:04:11",
+    "show": {
+        "link": "http://blog.binaergewitter.de",
+        "title": "Binärgewitter. Der Podcast rundum Web, Technologie und Opensource",
+        "summary": "Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt"
+    },
+    "audio": [
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-09-20.Binaergewitter.Talk.211.m4a",
+            "mimeType": "audio/m4a",
+            "size": "39365842",
+            "title": "Audio m4a"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-09-20.Binaergewitter.Talk.211.mp3",
+            "mimeType": "audio/mp3",
+            "size": "53934444",
+            "title": "Audio mp3"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-09-20.Binaergewitter.Talk.211.ogg",
+            "mimeType": "audio/ogg",
+            "size": "43532334",
+            "title": "Audio ogg"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-09-20.Binaergewitter.Talk.211.opus",
+            "mimeType": "audio/opus",
+            "size": "29112277",
+            "title": "Audio opus"
+        }
+    ],
+    "visibleComponents": [
+        "tabDownload",
+        "tabAudio",
+        "tabShare",
+        "poster",
+        "showTitle",
+        "episodeTitle",
+        "progressbar",
+        "controlSteppers"
+    ],
+    "reference": {
+        "share": "/podlove-web-player/share",
+        "base": "/podlove-web-player/dist"
+    }
+}
+        
+            , 
+
+
+
+{
+    "theme": {
+        "main": "#7FAF1B"
+    },
+    "link": "http://blog.binaergewitter.de/2017/11/03/2018-09-12-binaergewitter-talk-number-210-agile-ist-die-blockchain-von-damals",
+    "title": "Binärgewitter Talk #210: agile ist die Blockchain von damals",
+    "poster": "/img/binaergewitter_logo1x1.jpg",
+    "duration": "01:56:47",
+    "show": {
+        "link": "http://blog.binaergewitter.de",
+        "title": "Binärgewitter. Der Podcast rundum Web, Technologie und Opensource",
+        "summary": "Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt"
+    },
+    "audio": [
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-09-12.Binaergewitter.Talk.210.m4a",
+            "mimeType": "audio/m4a",
+            "size": "71586673",
+            "title": "Audio m4a"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-09-12.Binaergewitter.Talk.210.mp3",
+            "mimeType": "audio/mp3",
+            "size": "98117896",
+            "title": "Audio mp3"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-09-12.Binaergewitter.Talk.210.ogg",
+            "mimeType": "audio/ogg",
+            "size": "84073247",
+            "title": "Audio ogg"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-09-12.Binaergewitter.Talk.210.opus",
+            "mimeType": "audio/opus",
+            "size": "52583099",
+            "title": "Audio opus"
+        }
+    ],
+    "visibleComponents": [
+        "tabDownload",
+        "tabAudio",
+        "tabShare",
+        "poster",
+        "showTitle",
+        "episodeTitle",
+        "progressbar",
+        "controlSteppers"
+    ],
+    "reference": {
+        "share": "/podlove-web-player/share",
+        "base": "/podlove-web-player/dist"
+    }
+}
+        
+            , 
+
+
+
+{
+    "theme": {
+        "main": "#7FAF1B"
+    },
+    "link": "http://blog.binaergewitter.de/2017/10/03/2018-09-07-binaergewitter-talk-number-209-dsledge",
+    "title": "Binärgewitter Talk #209: DSLedge",
+    "poster": "/img/binaergewitter_logo1x1.jpg",
+    "duration": "01:04:11",
+    "show": {
+        "link": "http://blog.binaergewitter.de",
+        "title": "Binärgewitter. Der Podcast rundum Web, Technologie und Opensource",
+        "summary": "Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt"
+    },
+    "audio": [
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-09-06.Binaergewitter.Talk.209.m4a",
+            "mimeType": "audio/m4a",
+            "size": "39365842",
+            "title": "Audio m4a"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-09-06.Binaergewitter.Talk.209.mp3",
+            "mimeType": "audio/mp3",
+            "size": "53934444",
+            "title": "Audio mp3"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-09-06.Binaergewitter.Talk.209.ogg",
+            "mimeType": "audio/ogg",
+            "size": "43532334",
+            "title": "Audio ogg"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-09-06.Binaergewitter.Talk.209.opus",
+            "mimeType": "audio/opus",
+            "size": "29112277",
+            "title": "Audio opus"
+        }
+    ],
+    "visibleComponents": [
+        "tabDownload",
+        "tabAudio",
+        "tabShare",
+        "poster",
+        "showTitle",
+        "episodeTitle",
+        "progressbar",
+        "controlSteppers"
+    ],
+    "reference": {
+        "share": "/podlove-web-player/share",
+        "base": "/podlove-web-player/dist"
+    }
+}
+        
+            , 
+
+
+
+{
+    "theme": {
+        "main": "#7FAF1B"
+    },
+    "link": "http://blog.binaergewitter.de/2017/09/03/2018-08-25-binaergewitter-talk-number-208-poe-wlan",
+    "title": "Binärgewitter Talk #208: PoE WLAN-Kabel",
+    "poster": "/img/binaergewitter_logo1x1.jpg",
+    "duration": "01:04:11",
+    "show": {
+        "link": "http://blog.binaergewitter.de",
+        "title": "Binärgewitter. Der Podcast rundum Web, Technologie und Opensource",
+        "summary": "Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt"
+    },
+    "audio": [
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-08-25.Binaergewitter.Talk.208.m4a",
+            "mimeType": "audio/m4a",
+            "size": "39365842",
+            "title": "Audio m4a"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-08-25.Binaergewitter.Talk.208.mp3",
+            "mimeType": "audio/mp3",
+            "size": "53934444",
+            "title": "Audio mp3"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-08-25.Binaergewitter.Talk.208.ogg",
+            "mimeType": "audio/ogg",
+            "size": "43532334",
+            "title": "Audio ogg"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-08-25.Binaergewitter.Talk.208.opus",
+            "mimeType": "audio/opus",
+            "size": "29112277",
+            "title": "Audio opus"
+        }
+    ],
+    "visibleComponents": [
+        "tabDownload",
+        "tabAudio",
+        "tabShare",
+        "poster",
+        "showTitle",
+        "episodeTitle",
+        "progressbar",
+        "controlSteppers"
+    ],
+    "reference": {
+        "share": "/podlove-web-player/share",
+        "base": "/podlove-web-player/dist"
+    }
+}
+        
+            , 
+
+
+
+{
+    "theme": {
+        "main": "#7FAF1B"
+    },
+    "link": "http://blog.binaergewitter.de/2017/07/21/2018-07-21-binaergewitter-talk-number-207-heise-offline",
+    "title": "Binärgewitter Talk #207: Heise Offline",
+    "poster": "/img/binaergewitter_logo1x1.jpg",
+    "duration": "01:04:11",
+    "show": {
+        "link": "http://blog.binaergewitter.de",
+        "title": "Binärgewitter. Der Podcast rundum Web, Technologie und Opensource",
+        "summary": "Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt"
+    },
+    "audio": [
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-07-19.Binaergewitter.Talk.207.m4a",
+            "mimeType": "audio/m4a",
+            "size": "39365842",
+            "title": "Audio m4a"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-07-19.Binaergewitter.Talk.207.mp3",
+            "mimeType": "audio/mp3",
+            "size": "53934444",
+            "title": "Audio mp3"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-07-19.Binaergewitter.Talk.207.ogg",
+            "mimeType": "audio/ogg",
+            "size": "43532334",
+            "title": "Audio ogg"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-07-19.Binaergewitter.Talk.207.opus",
+            "mimeType": "audio/opus",
+            "size": "29112277",
+            "title": "Audio opus"
+        }
+    ],
+    "visibleComponents": [
+        "tabDownload",
+        "tabAudio",
+        "tabShare",
+        "poster",
+        "showTitle",
+        "episodeTitle",
+        "progressbar",
+        "controlSteppers"
+    ],
+    "reference": {
+        "share": "/podlove-web-player/share",
+        "base": "/podlove-web-player/dist"
+    }
+}
+        
+        ]
+    }
+

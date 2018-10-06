@@ -1,0 +1,64 @@
+
+	
+
+
+
+{
+    "theme": {
+        "main": "#7FAF1B"
+    },
+    "link": "http://blog.binaergewitter.de/2017/09/03/2018-08-25-binaergewitter-talk-number-208-poe-wlan",
+    "title": "Binärgewitter Talk #208: PoE WLAN-Kabel",
+    "poster": "/img/binaergewitter_logo1x1.jpg",
+    "duration": "01:04:11",
+    "show": {
+        "link": "http://blog.binaergewitter.de",
+        "title": "Binärgewitter. Der Podcast rundum Web, Technologie und Opensource",
+        "summary": "Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt"
+    },
+    "audio": [
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-08-25.Binaergewitter.Talk.208.m4a",
+            "mimeType": "audio/m4a",
+            "size": "39365842",
+            "title": "Audio m4a"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-08-25.Binaergewitter.Talk.208.mp3",
+            "mimeType": "audio/mp3",
+            "size": "53934444",
+            "title": "Audio mp3"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-08-25.Binaergewitter.Talk.208.ogg",
+            "mimeType": "audio/ogg",
+            "size": "43532334",
+            "title": "Audio ogg"
+        }, 
+                        
+        {
+            "url": "http://download.binaergewitter.de/2018-08-25.Binaergewitter.Talk.208.opus",
+            "mimeType": "audio/opus",
+            "size": "29112277",
+            "title": "Audio opus"
+        }
+    ],
+    "visibleComponents": [
+        "tabDownload",
+        "tabAudio",
+        "tabShare",
+        "poster",
+        "showTitle",
+        "episodeTitle",
+        "progressbar",
+        "controlSteppers"
+    ],
+    "reference": {
+        "share": "/podlove-web-player/share",
+        "base": "/podlove-web-player/dist"
+    }
+}
+
